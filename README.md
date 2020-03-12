@@ -1,2 +1,0 @@
-# takamo.github.io
-Website
